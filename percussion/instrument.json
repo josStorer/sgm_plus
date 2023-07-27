@@ -1,0 +1,9 @@
+{
+  "name": "percussion",
+  "minPitch": 35,
+  "maxPitch": 81,
+  "durationSeconds": 3.0,
+  "releaseSeconds": 1.0,
+  "percussive": true,
+  "velocities": [15, 31, 47, 63, 79, 95, 111, 127]
+}
