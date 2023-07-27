@@ -1,0 +1,9 @@
+{
+  "name": "electric_piano_1",
+  "minPitch": 21,
+  "maxPitch": 108,
+  "durationSeconds": 3.0,
+  "releaseSeconds": 1.0,
+  "percussive": false,
+  "velocities": [15, 31, 47, 63, 79, 95, 111, 127]
+}
